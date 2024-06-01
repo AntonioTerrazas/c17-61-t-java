@@ -17,7 +17,7 @@ Union Wallet es una billetera virtual moderna y segura que te permite realizar t
 	<table>
 		<tr>
             <td><img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></td>
-            <td><img width="50" src="https://github.com/No-Country/c16-84-ft-java/raw/main/proyecto/react.svg" alt="React" title="React"/></td>
+            <td><img width="50" src="https://camo.githubusercontent.com/4a58fd40801611486ba62930cba7e14e799c74127fee4899051c8ca22e71eccc/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f612f61372f52656163742d69636f6e2e7376672f35333970782d52656163742d69636f6e2e7376672e706e67" alt="React" title="React"/></td>
             <td><img width="50" src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" alt="Spring" title="Spring"/></td>
 			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" alt="Spring Boot" title="Spring Boot"/></td>
             <td><img width="50" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="Swagger" title="Swagger"/></td>
@@ -48,9 +48,9 @@ Union Wallet es una billetera virtual moderna y segura que te permite realizar t
 <div align="center">
 	<table>
 		<tr>
-            <td><img width="50" src="https://github.com/No-Country/c16-84-ft-java/raw/main/proyecto/react.svg" alt="React" title="React"/></td>
-            <td><img width="50" src="https://github.com/No-Country/c16-84-ft-java/raw/main/proyecto/html.svg" alt="HTML" title="HTML"/></td>
-            <td><img width="50" src="https://github.com/No-Country/c17-61-t-java.old/raw/ec4dc44d5745aed035be14cdaca8fb754ff145ff/extra/ccs3.png" alt="CCS" title="CCS"/></td>
+            <td><img width="50" src="https://camo.githubusercontent.com/4a58fd40801611486ba62930cba7e14e799c74127fee4899051c8ca22e71eccc/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f612f61372f52656163742d69636f6e2e7376672f35333970782d52656163742d69636f6e2e7376672e706e67" alt="React" title="React"/></td>
+            <td><img width="50" src="https://cdn-icons-png.flaticon.com/256/174/174854.png" alt="HTML" title="HTML"/></td>
+            <td><img width="50" src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202020css3htmllogosocialsocialmedia-115668_115633.png" alt="CCS" title="CCS"/></td>
 		</tr>
 	</table>
 </div>
@@ -79,10 +79,10 @@ Union Wallet es una billetera virtual moderna y segura que te permite realizar t
 	<table>
 		<tr>
             <td><img width="50" src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" alt="Git" title="Git"/></td>
-            <td><img width="50" src="https://github.com/No-Country/c17-61-t-java.old/blob/Produccion/extra/IntelliJ_IDEA_Icon.svg.png?raw=true" alt="IntelliJ" title="IntelliJ"/></td>
-            <td><img width="50" src="https://github.com/No-Country/c17-61-t-java.old/blob/Produccion/extra/gitdesktop.png?raw=true" alt="GitDesktop" title="GitDesktop"/></td>
-            <td><img width="50" src="https://raw.githubusercontent.com/No-Country/c17-61-t-java.old/Produccion/extra/postman-icon.webp" alt="Postman" title="Postman"/></td>
-            <td><img width="50" src="https://github.com/No-Country/c17-61-t-java.old/blob/Produccion/extra/navicatLogo.png?raw=true" alt="NaviCat" title="NaviCat"/></td>
+            <td><img width="50" src="https://w7.pngwing.com/pngs/702/907/png-transparent-intellij-idea-integrated-development-environment-computer-software-jetbrains-java-others-miscellaneous-angle-text.png" alt="IntelliJ" title="IntelliJ"/></td>
+            <td><img width="50" src="https://www.dockhunt.com/_next/image?url=https%3A%2F%2Fdockhunt-images.nyc3.cdn.digitaloceanspaces.com%2F69257cb2-1b88-4d76-ae6b-5ef6469d1a23&w=384&q=75" alt="GitDesktop" title="GitDesktop"/></td>
+            <td><img width="50" src="https://cdn.iconscout.com/icon/free/png-256/free-postman-3521648-2945092.png?f=webp" alt="Postman" title="Postman"/></td>
+            <td><img width="50" src="https://w7.pngwing.com/pngs/423/783/png-transparent-navicat-database-administrator-mysql-mariadb-others-thumbnail.png" alt="NaviCat" title="NaviCat"/></td>
 		</tr>
 	</table>
 </div>
@@ -110,8 +110,8 @@ Union Wallet es una billetera virtual moderna y segura que te permite realizar t
 <div align="center">
 	<table>
 		<tr>
-            <td><img width="50" src="https://raw.githubusercontent.com/No-Country/c17-61-t-java.old/Produccion/extra/postman-icon.webp" alt="Postman" title="Postman"/></td>
-						<td><img width="50" src="https://github.com/No-Country/c17-61-t-java/blob/Develop/extra/imgs/GoogleSheets.png" alt="Google Sheets" title="Google Sheets"/></td>
+            <td><img width="50" src="https://cdn.iconscout.com/icon/free/png-256/free-postman-3521648-2945092.png?f=webp" alt="Postman" title="Postman"/></td>
+						<td><img width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb2FoSRK0w--8mNJiDbB3rNerAf_XE8oAfew&s" alt="Google Sheets" title="Google Sheets"/></td>
 		</tr>
 	</table>
 </div>
@@ -123,7 +123,7 @@ Union Wallet es una billetera virtual moderna y segura que te permite realizar t
 <div align="center">
 	<table>
 		<tr>
-            <td><img width="50" src="https://github.com/No-Country/c17-61-t-java.old/blob/Produccion/extra/trello.png?raw=true" alt="Trello" title="Trello"/></td>
+            <td><img width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYw6Z2RfmdvSGPSrX8bFhg1V-b32nnZWW5fQ&s" alt="Trello" title="Trello"/></td>
             <td><img width="40" src="https://camo.githubusercontent.com/e39266f11f0dd5202c8ac61bbc08fd633086c9c4c845334890e6c6720e231c68/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f736c61636b2f736c61636b2d6f726967696e616c2e737667" alt="Slack" title="Slack"/></td>
             <td><img width="50" src="https://camo.githubusercontent.com/449f9e451ea3c11b7c466f29932d91a48a8748a4838b000868dd58ec7e372b24/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3438302f646973636f72642d6e65772d6c6f676f2e706e67" alt="Discord" title="Discord"/></td>
 		</tr>
@@ -137,12 +137,12 @@ Union Wallet es una billetera virtual moderna y segura que te permite realizar t
 <div align="center">
 	<table>
 		<tr>
-            <td><img width="50" src="https://github.com/No-Country/c17-61-t-java/blob/Develop/extra/imgs/imagenesProyecto/Inicio%20Union%20Wallet%20im.png" alt="Inicio" title="Inicio"/></td>
-						<td><img width="50" src="https://github.com/No-Country/c17-61-t-java/blob/Develop/extra/imgs/imagenesProyecto/Transferir%20Uninon%20Wallet.png" alt="Transferencia" title="Trasferir"/></td>
-						<td><img width="50" src="https://github.com/No-Country/c17-61-t-java/blob/Develop/extra/imgs/imagenesProyecto/Transaccion%20exitosa%20Union%20wallet.png" alt="Transaccion Exitosa" title="Trasferencia"/></td>
-						<td><img width="50" src="https://github.com/No-Country/c17-61-t-java/blob/Develop/extra/imgs/imagenesProyecto/Union%20Wallet%20Login%20im.png" alt="Login" title="Iniciar sesion"/></td>
-						<td><img width="50" src="https://github.com/No-Country/c17-61-t-java/blob/Develop/extra/imgs/imagenesProyecto/Aviso%20de%20transferencia%20exitosa.png" alt="Mail notificacion" title="Noticicacion de transferencia"/></td>
-						<td><img width="50" src="https://github.com/No-Country/c17-61-t-java/blob/Develop/extra/imgs/imagenesProyecto/Mail%20transferecia%20exitosa.png" alt="body mail" title="Mensaje de transferencia"/></td>
+            <td><img width="50" src="https://github.com/AntonioTerrazas/c17-61-t-java/blob/main/extra/imgs/imagenesProyecto/Inicio%20Union%20Wallet%20im.png" alt="Inicio" title="Inicio"/></td>
+						<td><img width="50" src="https://github.com/AntonioTerrazas/c17-61-t-java/blob/main/extra/imgs/imagenesProyecto/Transferir%20Uninon%20Wallet.png" alt="Transferencia" title="Trasferir"/></td>
+						<td><img width="50" src="https://github.com/AntonioTerrazas/c17-61-t-java/blob/main/extra/imgs/imagenesProyecto/Transaccion%20exitosa%20Union%20wallet.png" alt="Transaccion Exitosa" title="Trasferencia"/></td>
+						<td><img width="50" src="https://github.com/AntonioTerrazas/c17-61-t-java/blob/main/extra/imgs/imagenesProyecto/Union%20Wallet%20Login%20im.png" alt="Login" title="Iniciar sesion"/></td>
+						<td><img width="50" src="https://github.com/AntonioTerrazas/c17-61-t-java/blob/main/extra/imgs/imagenesProyecto/Aviso%20de%20transferencia%20exitosa.png" alt="Mail notificacion" title="Noticicacion de transferencia"/></td>
+						<td><img width="50" src="https://github.com/AntonioTerrazas/c17-61-t-java/blob/main/extra/imgs/imagenesProyecto/Mail%20transferecia%20exitosa.png" alt="body mail" title="Mensaje de transferencia"/></td>
 		</tr>
 	</table>
 </div>
